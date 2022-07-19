@@ -1,6 +1,3 @@
 <req
-	<name> Сашка </name>
-	<age> 26 </age>
-	<pets> 1 </pets>
-	<desired_salary> 1 500 000,00 </desired_salary>
+	<my_text> О моих предпочтениях узнаете при встрече лично ;) </my_text>
 </req>
